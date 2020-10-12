@@ -1,3 +1,3 @@
 # Kokoa Clone 2020 Update
 
-Follow the Course by Nomad Coder.
+Followed the Course by Nomad Coder.
